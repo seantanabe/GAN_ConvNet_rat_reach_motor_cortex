@@ -1,5 +1,7 @@
 # Application of Generative Adversarial Networks and explainable Convolutional Networks to investigate relation between activity in motor cortex and a skilled hand use task. [temp title]
 
+These example scripts and data were used for the analysis in the article [temp ref].
+
 Example scripts <br />
 ConvNet_P1: Example of extracting feature with ConvNet from reach trial video. <br />
 ConvNet_P2: Example of training dense unit to predict neural activity from ConvNet features. <br />
