@@ -1,4 +1,4 @@
-# Application of Generative Adversarial Networks and explainable Convolutional Networks to investigate relation between activity in motor cortex and a skilled hand use task. [temp title]
+# Using Generative and Explainable Neural Networks to Investigate the Relationship Between Motor Cortex Activity and Animal Behavior During Motor Task Learning
 
 These example scripts and data were used for the analysis in the article; Tanabe et al. 2024 (preprint) 'Using Generative and Explainable Neural Networks to Investigate the Relationship Between Motor Cortex Activity and Animal Behavior During Motor Task Learning'.
 https://doi.org/10.21203/rs.3.rs-4578348/v1
