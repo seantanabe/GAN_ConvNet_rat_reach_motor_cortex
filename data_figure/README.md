@@ -9,9 +9,9 @@ And each neuron cell has 21x10.
 2nd dimension corresponds to the 10 cross-validation test neural activity. 
 
 
-fig_2C_dt.mat
+fig_2C_dt.mat, fig_4C_dt.mat
 
-Distance data for figure 2C. 
+Distance data for figure 2C and 4C. 
 Row cells: early, mid, late days of training. 
 Column: observed, shuffled. 
 
